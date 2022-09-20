@@ -1,0 +1,27 @@
+{
+  "name": "goit-nodejs-1hw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmytroVoitovych/goit-nodejs-1hw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmytroVoitovych/goit-nodejs-1hw/issues"
+  },
+  "homepage": "https://github.com/DmytroVoitovych/goit-nodejs-1hw#readme",
+  "description": "",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "yargs": "^17.5.1"
+  }
+}
